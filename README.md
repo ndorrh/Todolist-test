@@ -50,6 +50,11 @@ The App is already deployed for you using Github pages
 - Twitter: [@ndorrh](https://twitter.com/ndorrh)
 - LinkedIn: [ndorrh](https://www.linkedin.com/in/ndorrh-oswald-ebu-82ab02236/)
 
+👤 **Stanley Tochukwu Enekwe:**
+- GitHub: [@Enekwestanley](https://github.com/Enekwestanley)
+- Twitter: [@Tochukwu87](https://twitter.com/tochukwu87)
+- LinkedIn: [stanley-enekwe](https://www.linkedin.com/in/stanley-enekwe-285104230/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
