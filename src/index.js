@@ -15,7 +15,7 @@ template.innerHTML = HTMLTemplate(listTitle, inputName, btnName, listName, clear
 template.classList.add('template');
 myapp.appendChild(template);
 
-// Page elements selectors
+// Page elements selectors and Variables
 const input = document.querySelector(`#${inputName}`);
 const button = document.querySelector(`#${btnName}`);
 const domList = document.querySelector(`#${listName}`);
