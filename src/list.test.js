@@ -50,7 +50,7 @@ describe('DOM Tests', () => {
     expect(check).toHaveLength(0);
   });
 
-  test('Expect editing task description', () => {
+  test('Expect editing', () => {
     const list1 = new List(Item, 'testing list4', 'test list sto4');
     const initialText = 'This should change';
     document.body.innerHTML = '<div><ul id="list"></ul></div>';
